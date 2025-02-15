@@ -1,0 +1,15 @@
+Manager,1,Jane Smith,5000,HR
+Employee,98,Egor Perov,qwe,1
+Employee,99,Ivan Ivanov, 2000,1
+Employee,100,Vika Goroh,120,1
+Employee,101,John Doe,3000,1
+Employee,102,Emily Johnson,abc,1
+Manager,2,Michael Brown,6000,Sales
+Employee,103,Chris White,-2900,2
+Employee,104,Anna Taylor,3100,2
+Employee,105,Robert Black,,2
+Employee,106,Petr Petrov, 3000,2
+Manager,3,Nikolay Voevodov, 5000,Develop
+Employee,110,Gora Pavlov,1000
+Employee,111,Vera Beet, 800,3
+Employee,112,Sergey Rod,1200,3
